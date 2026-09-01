@@ -83,7 +83,7 @@ h1 span { margin-left: .08em; }
 .details dd { margin: 0; font-size: 13px; }
 .details a { color: inherit; text-decoration: none; }
 
-.pharmacy-image { display: block; width: 100%; height: auto; margin: 0 0 12px; border: 1px solid var(--line); border-radius: 18px; background: #fff; }
+.pharmacy-image { display: block; width: 100%; height: auto; margin: 12px 0 0; border: 1px solid var(--line); border-radius: 18px; background: #fff; }
 .job-card { padding: 16px; background: #fff; border: 1px solid var(--line); border-radius: 18px; }
 .job-title { display: flex; align-items: center; gap: 13px; }
 .job-title small, .job-title strong { display: block; }
